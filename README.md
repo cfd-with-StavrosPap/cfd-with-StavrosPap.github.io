@@ -1,2 +1,2 @@
 # cfd-with-StavrosPap.github.io
-some of my projects
+these are some of my projects
