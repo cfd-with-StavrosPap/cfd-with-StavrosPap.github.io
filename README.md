@@ -15,8 +15,8 @@ t=30sec
 <img width="1740" height="943" alt="image" src="https://github.com/user-attachments/assets/abeb6756-dfd1-454f-97e4-4d1551c3b2ae" />
 t=60sec
 <img width="1736" height="882" alt="image" src="https://github.com/user-attachments/assets/05b80f8a-3c2f-42d0-9350-5c1231b8dc3c" />
-
 t=120sec
+<img width="1742" height="872" alt="image" src="https://github.com/user-attachments/assets/1638dae1-fcb4-445f-b361-fd0916ec7159" />
 
 In the link below you can find the whole video
 https://github.com/user-attachments/assets/98ea6c02-3167-4631-94c2-8a8fa0d467b8
