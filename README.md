@@ -7,6 +7,7 @@ b)The diagram shows how water enters a bottle at standard room temperature at di
 t=30sec
 <img width="1740" height="943" alt="image" src="https://github.com/user-attachments/assets/abeb6756-dfd1-454f-97e4-4d1551c3b2ae" />
 t=60sec
+<img width="1736" height="882" alt="image" src="https://github.com/user-attachments/assets/05b80f8a-3c2f-42d0-9350-5c1231b8dc3c" />
 
 t=120sec
 
